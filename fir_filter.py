@@ -1,4 +1,7 @@
-#!python
+"""
+Reference:
+    http://www.eas.uccs.edu/~mwickert/ece2610/lecture_notes/ece2610_chap5.pdf
+"""
 from __future__ import print_function
 import time
 
