@@ -7,3 +7,4 @@
 * Kalman Filter
   * https://www.youtube.com/watch?v=CaCcOwJPytQ&feature=youtu.be
   * https://pykalman.github.io/
+  * https://medium.com/@jaems33/understanding-kalman-filters-with-python-2310e87b8f48
